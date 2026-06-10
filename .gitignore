@@ -1,0 +1,8 @@
+*_genome.fna
+*_clean.fna
+*_filtered.fna
+*.fna.fai
+*_annotation.gff
+*_clean.gtf
+*.log
+nohup.out
